@@ -26,12 +26,6 @@ Each pixel corresponds to a complex number. The viewer calculates whether that n
 | Less Detail    | Decreases iteration count by 10%            |
 | Mouse Click    | Re-centers the view on the clicked point    |
 
-## Example Projects Inspired by This Tool
-
-- Interactive fractal zoom explorers
-- Teaching tools for complex numbers and iterative algorithms
-- Visual introductions to chaos and fractal geometry
-
 ## Potential Extensions
 
 - Save and load custom views
@@ -47,4 +41,4 @@ Each pixel corresponds to a complex number. The viewer calculates whether that n
 
 ## License
 
-This project is open-source and available for educational and personal use.
+This project is open-source and available under a GNU license: all reproductions, modifications, and extensions must also be freely available under the GNU license. 
